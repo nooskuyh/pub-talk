@@ -1,6 +1,5 @@
 # gpp-slides
 
-A 2-page Slidev presentation explaining the interaction between the Trapezius and Pectoralis muscles and the mechanics of Rounded Shoulder Posture.
 
 - `slides.md`: Presentation slides
 - `components/`: Reusable components

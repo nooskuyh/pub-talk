@@ -1,8 +1,7 @@
 ---
 theme: default
 title: How to become a Good Developer
-info: |
-  How to become a Good Developer presentation slides.
+info: Rounded Shoulder Posture and Current Approach
 highlighter: shiki
 drawings:
   persist: false
