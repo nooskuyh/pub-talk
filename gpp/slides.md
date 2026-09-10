@@ -36,7 +36,7 @@ class: question-slide
 </v-clicks>
 
 <div v-click class="wrong-overlay">
-  <img :src="'/imgs/wrong.png'" alt="WRONG!" class="wrong-img" />
+  <img src="./public/imgs/wrong.png" alt="WRONG!" class="wrong-img" />
 </div>
 
 ---

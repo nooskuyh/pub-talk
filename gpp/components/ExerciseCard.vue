@@ -34,9 +34,19 @@ const props = defineProps({
 
 const hasError = ref(false)
 
+const base = import.meta.env.BASE_URL || '/'
+const cleanBase = base.endsWith('/') ? base : `${base}/`
+
 const imgSrc = computed(() => {
-  if (props.gif) return props.gif
-  if (props.exerciseId) return `/imgs/exercises/${props.exerciseId}.gif`
+  if (props.gif) {
+    if (props.gif.startsWith('/')) {
+      return `${cleanBase}${props.gif.slice(1)}`
+    }
+    return props.gif
+  }
+  if (props.exerciseId) {
+    return `${cleanBase}imgs/exercises/${props.exerciseId}.gif`
+  }
   return ''
 })
 </script>
