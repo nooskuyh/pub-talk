@@ -419,6 +419,119 @@ a <span class='text-red-500 font-bold'>Bad</span> Developer!"
 ---
 
 ::kicker
+Targeted Exercise Toolkit · Part 1
+::
+
+# Corrective Exercises: Mobility & Postural Control
+
+<div class="grid grid-cols-2 gap-3 mt-1">
+  <ExerciseCard
+    exerciseId="doorway"
+    target="Rounded Shoulders / Tight Chest"
+    title="Doorway Chest Stretch"
+    motion="Forearms on doorframe at 90°; step forward gently without arching the lower back."
+    prescription="30–45 sec × 2–3 sets"
+    tone="rose"
+  />
+  <ExerciseCard
+    exerciseId="foam-roller"
+    target="Limited Thoracic Mobility"
+    title="Thoracic Extension on Foam Roller"
+    motion="Support head, place roller under upper back, and extend the thoracic spine backward."
+    prescription="6–10 reps × 2 sets"
+    tone="teal"
+  />
+  <ExerciseCard
+    exerciseId="chin-tuck"
+    target="Forward Head Posture"
+    title="Chin Tuck"
+    motion="Glide chin horizontally backward to lengthen the back of the neck without nodding down."
+    prescription="Hold 5–10 sec × 8–10 reps"
+    tone="blue"
+  />
+  <ExerciseCard
+    exerciseId="wall-slide"
+    target="Excessive Upper Trapezius Use"
+    title="Wall Slide"
+    motion="Slide forearms upward in a 'V' shape against the wall without shrugging shoulders."
+    prescription="8–12 reps × 2–3 sets"
+    tone="purple"
+  />
+</div>
+
+---
+
+::kicker
+Targeted Exercise Toolkit · Part 2
+::
+
+# Corrective Exercises: Stability & Strength
+
+<div class="grid grid-cols-2 gap-3 mt-1">
+  <ExerciseCard
+    exerciseId="pushup-plus"
+    target="Scapular Winging / Weak Serratus"
+    title="Push-Up Plus"
+    motion="In push-up plank, keep elbows locked straight and push the floor away to spread scapulae."
+    prescription="10–15 reps × 2–3 sets"
+    tone="teal"
+  />
+  <ExerciseCard
+    exerciseId="band-row"
+    target="Weak Mid-Back Muscles"
+    title="Band Row"
+    motion="Pull elbows back while drawing shoulder blades together and down; avoid shrugging."
+    prescription="10–15 reps × 2–4 sets"
+    tone="amber"
+  />
+  <ExerciseCard
+    exerciseId="band-er"
+    target="Weak Rotator Cuff"
+    title="Band External Rotation"
+    motion="Keep elbow pinned to side at 90° and rotate forearm outward against band resistance."
+    prescription="12–15 reps × 2–3 sets"
+    tone="rose"
+  />
+  <ExerciseCard
+    exerciseId="prone-y"
+    target="Weak Lower Trapezius"
+    title="Prone Y Raise"
+    motion="Lying face down, raise arms at 30° 'Y' angle with thumbs pointing up; initiate with scapula."
+    prescription="8–12 reps × 2–3 sets"
+    tone="emerald"
+  />
+</div>
+
+---
+
+::kicker
+Targeted Exercise Toolkit · Part 3
+::
+
+# Corrective Exercises: Thoracic & Scapular Control
+
+<div class="grid grid-cols-2 gap-4 mt-2">
+  <ExerciseCard
+    exerciseId="thoracic-rotation"
+    target="Limited Thoracic Mobility"
+    title="Thoracic Rotation - Wall"
+    motion="Stand or half-kneel sideways next to a wall with hips square. Rotate outer arm and rib cage open toward the wall to isolate thoracic rotation without lumbar compensation."
+    prescription="6–10 reps / side × 2 sets"
+    tone="emerald"
+  />
+  <ExerciseCard
+    exerciseId="prone-w"
+    target="Rhomboids / Scapular Retraction"
+    title="Prone W Raise"
+    motion="Lie face down, elbows bent at 90° in a 'W'. Squeeze shoulder blades down and back toward spine, lifting arms slightly off floor; hold 2–3s without neck extension."
+    prescription="10–12 reps × 2–3 sets"
+    tone="amber"
+  />
+</div>
+
+---
+
+::kicker
 Evidence Base · Scholarly Sources
 ::
 
