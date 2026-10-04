@@ -4,7 +4,7 @@ import { execSync } from 'node:child_process';
 
 const rootDir = process.cwd();
 const outDir = path.resolve(rootDir, '_site');
-let basePath = process.env.BASE_PATH || '/public-slides/';
+let basePath = process.env.BASE_PATH || '/pub-talk/';
 if (!basePath.startsWith('/')) basePath = '/' + basePath;
 if (!basePath.endsWith('/')) basePath = basePath + '/';
 
